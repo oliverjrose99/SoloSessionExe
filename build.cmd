@@ -1,0 +1,1 @@
+pyinstaller --onefile -c -n SoloSession SoloSession.py --specpath dist
