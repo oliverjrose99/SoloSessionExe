@@ -20,7 +20,7 @@ def main():
     
     if gta == None:
         print("Could not find GTA.EXE process, Please have GTA open and be in a public online session.")
-        print("Otherwise open an issue at github.com/oliverjrose99/GTASoloSession")
+        print("Otherwise open an issue at github.com/oliverjrose99/SoloSessionExe")
         
         return ac()
 
