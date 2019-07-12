@@ -7,6 +7,8 @@ A small tool to help put you in a GTA Online solo public session.
 3. Run the tool and wait about 10 seconds
 4. Profit? You will be in a solo public session
 
+When you run the exe for the first time, Windows may give you a SmartScreen warning. This is because the code/exe isn't digitally signed but can still be run by clicking "More info" and then "Run anyway". Otherwise you can run the code in the Python interpreter or "compile" using pyinstaller.
+
 When using a shortcut to the exe, you can append `-ac` to the target (in the properties) which will cause the window to auto close once completed.
 
 If you close the tool while GTA's suspended, it will remain suspended until you resume it in Resource Monitor or you close and reopen GTA. This may be fixed in a future version.
